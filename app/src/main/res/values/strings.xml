@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My weather app</string>
+    <string name="todo">TODO</string>
+    <string name="bonginkosi_phala">Bonginkosi phala</string>
+    <string name="st10444634">St10444634</string>
+    <string name="day_min_max_weather_condition">Day Min Max weather condition</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="friday">Friday</string>
+    <string name="information">Information</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="back_to_main_manu">Back to main manu</string>
+    <string name="weather_master">weather master</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="Todo">TODO</string>
+    <string name="weather_masteR">weather master</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+</resources>
